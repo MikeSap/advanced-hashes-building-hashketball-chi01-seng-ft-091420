@@ -3,5 +3,5 @@ require 'pry'
 def game_hash
   game_hash = {
   }
-  binding.pry
+  #binding.pry
 end
